@@ -4,9 +4,9 @@ var pet;
 
 function preload()
 {
-  dog = loadImage("images/dogImg.png");
+  dog = loadImage("dogImg.png");
   
-  happyDog = loadImage("images/dogImg1.png");
+  happyDog = loadImage("dogImg1.png");
 }
 
 function setup() {
